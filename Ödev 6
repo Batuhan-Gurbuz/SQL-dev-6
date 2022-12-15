@@ -15,3 +15,6 @@ WHERE rental_rate = 0.99;
 
 SELECT COUNT(DISTINCT replacement_cost) FROM film
 WHERE LENGTH > 150;
+
+
+www.patika.dev
